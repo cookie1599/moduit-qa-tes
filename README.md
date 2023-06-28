@@ -47,4 +47,5 @@ Setelah itu klik send. Nanti akan muncul response code 204 atau berhasil menghap
 ```
 
 **Video Testing API**
+
 ![video testing api dengan postman](test-api-qa.mp4)
