@@ -45,7 +45,3 @@ response code 200 atau berhasil update data user.
 Buka postman lalu pilih collection Delete user isi dengan url `{{reqres}}api/users/2`.
 Setelah itu klik send. Nanti akan muncul response code 204 atau berhasil menghapus user dengan id 2.
 ```
-
-**Video Testing API**
-
-![video testing api dengan postman](test-api-qa.mp4)
